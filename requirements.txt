@@ -7,3 +7,5 @@ statsmodels
 sympy
 scipy
 flask-wtf
+sklearn
+scikit-learn
