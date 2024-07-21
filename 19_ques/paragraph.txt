@@ -1,0 +1,2 @@
+This is a sample paragraph. This paragraph is intended to be used for counting word occurrences.
+Counting words in a paragraph can be useful for text analysis. This is just a sample paragraph.

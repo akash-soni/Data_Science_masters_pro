@@ -1,0 +1,9 @@
+flask 
+flask_sqlalchemy 
+flask_login
+pandas
+matplotlib
+statsmodels
+sympy
+scipy
+flask-wtf

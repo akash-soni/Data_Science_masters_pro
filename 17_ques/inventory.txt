@@ -1,0 +1,6 @@
+Item ID, Item Name, Quantity, Price
+1, Apples, 50, 0.50
+2, Oranges, 30, 0.60
+3, Bananas, 100, 0.20
+4, Grapes, 25, 2.00
+5, Strawberries, 40, 1.50
