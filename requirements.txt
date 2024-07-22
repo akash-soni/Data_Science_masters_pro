@@ -3,6 +3,7 @@ flask_sqlalchemy
 flask_login
 pandas
 matplotlib
+seaborn
 statsmodels
 sympy
 scipy
